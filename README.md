@@ -2,8 +2,9 @@ MouseGlove-v2
 =============
 
 This is an updated version of MouseGlove (https://github.com/Goldenchest/MouseGlove) that adds the ability for users to define
-the colors to track instead of having the colors hard-coded. This allows the glove to work under more diverse lighting
-conditions and also allows people to make their own gloves with different colored markers.
+the colors to track by clicking on the colored markers on startup (instead of having the colors hard-coded). This allows the
+glove to work under more diverse lighting conditions and also allows people to use their own gloves with potentially different
+colored markers.
 
 README from original MouseGove:
 ---------------------------------------------------------------------------------------------------------------------------------
